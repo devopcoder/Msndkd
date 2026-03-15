@@ -7,7 +7,7 @@ pkg update && pkg upgrade && pkg install git && pkg install python && termux-set
 🔘 **Start command**
 
 ```
-ls && cd Msdnkd && python Phvemon.py
+ls && cd Msndkd && python Phvemon.py
 ```
 
 --------------------------
