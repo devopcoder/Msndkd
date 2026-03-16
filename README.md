@@ -13,7 +13,7 @@ ls && cd Msndkd && python Phvemon.py
 --------------------------
 🌬️ **WINDOWS SET UP** 
 ```
-cd C:\Users\username\Downloads\python Phvemon.py
+cd C:\Users\username\Downloads && python Phvemon.py
 ```
 
 **EDIT THE USERNAME**
